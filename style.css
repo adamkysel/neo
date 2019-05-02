@@ -1,0 +1,11 @@
+.wrapper{
+    margin-top: 54px;
+    padding: 20px 20px 20px 20px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    border-radius: 25px;
+}
+body, html {
+
+    background-image: linear-gradient(to right, deepskyblue , lightblue);
+}
